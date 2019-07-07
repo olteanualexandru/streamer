@@ -1,0 +1,12 @@
+# dependencies
+/api-server/node_modules
+/api-server/.pnp
+/client/node_modules
+/client/.pnp
+/rtmp-server/node_modules
+/rtmp-server/.pnp
+
+# misc
+/api-server/.idea
+/client/.idea
+/rtmp-server/.idea
